@@ -8,7 +8,17 @@
 
 - 📘 **Projects:** I recently compiled a variety of my academic projects in statistical analysis and uploaded them here to share my journey and learnings. Feel free to browse through them and see my progress and the skills I've developed along the way.
 
-<br><br>
+
+
+<br>
+
+<p align="left">
+  <img src="42b.gif" width="250" alt="Meme GIF"/>
+</p>
+
+<br>
+
+
 
 ## Languages and Tools:
 <p>
