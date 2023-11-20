@@ -10,7 +10,10 @@
 
 <p align="center">
   <img src="42b.gif" width="120 height="80" alt="Meme GIF" style="display: inline-block; margin-right: 20px;"/>
-  <img src="21 Perfect _Inside Out_ GIFs For Every Situation.gif" width="250" height="150" alt="Meme GIF" style="display: inline-block; margin-left: 20px;"/>
+ <p align="center">
+  <img src="21 Perfect _Inside Out_ GIFs For Every Situation.gif" width="250" height="200" alt="Meme GIF" style="display: block; margin-bottom: 20px;"/>
+  <img src="tenor.gif" width="250" height="200" alt="Meme GIF" style="display: block; margin-top: 20px;"/>
+</p>
 </p>
 
 
