@@ -2,7 +2,8 @@
 
 ## It's very nice to meet you!
 
-- 🌟 **Degree:** I am currently working towards my undergrad degree in Statistics and Computer Science at Wake Forest University.
+- 🌟 **Degree:** Graduated in Bachelor's degree in Statistics and Computer Science at Wake Forest University.
+                 Working towards my degree in ORIE at Cornell University
 
 - 🔥 **Interest:** I am passionate about applying data science to the fields of business analytics and product development.
 
